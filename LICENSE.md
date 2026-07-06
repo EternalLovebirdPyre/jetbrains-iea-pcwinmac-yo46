@@ -1,4 +1,4 @@
-# 
+# Natif JetBrains IntelliJ IDEA extensions pour Mac OS | Officiel JetBrains IntelliJ IDEA extensions pour PC Windows. Avec développement distant et plans de maintenance — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
